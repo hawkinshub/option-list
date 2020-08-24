@@ -1,3 +1,10 @@
 [
-{"name":"Foo","value":"Bar"}
+   {
+      "name":"Foo",
+      "value":"Bar"
+   },
+   {
+      "name":"Bar",
+      "value":"Foo"
+   }
 ]
